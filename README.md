@@ -22,7 +22,7 @@
   
 <div align="center">
   <a href="https://github.com/akiratorres">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=akiratorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiratorres&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=akiratorres&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akiratorres&layout=compact&langs_count=7&theme=dracula"/>
   <img align="right" alt="Cowboy" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/809253570964488225/898457599727509505/tumblr_putwna5RWn1qzhf3uo3_1280.gif">
 </div>
