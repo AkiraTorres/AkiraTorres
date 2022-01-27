@@ -3,7 +3,7 @@
 <ul>
   <li>Apenas buscando conhecimento.</li>
   <li>Técnico em Redes de Computadores.</li>
-  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco.</li>
+  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, segundo período.</li>
   <li>ele/dele</li>
 </ul>
 
