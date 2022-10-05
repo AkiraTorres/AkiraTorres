@@ -1,10 +1,9 @@
-## Eai, eu sou Thiago 
+## Torres
 
 <ul>
   <li>Apenas buscando conhecimento.</li>
   <li>Técnico em Redes de Computadores.</li>
-  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, segundo período.</li>
-  <li>ele/dele</li>
+  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, terceiro período.</li>
 </ul>
 
 ![Snake animation](https://github.com/akiratorres/akiratorres/blob/output/github-contribution-grid-snake.svg)
