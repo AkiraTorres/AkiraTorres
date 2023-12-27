@@ -6,7 +6,7 @@
   <li>Apenas buscando conhecimento.</li>
   <li>Tenho 22 anos.</li>
   <li>Técnico em Redes de Computadores.</li>
-  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, quinto período.</li>
+  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, sexto período.</li>
 </ul> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akiratorres&bg_color=0d1117&color=e0e0e0&line=0055ff&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
