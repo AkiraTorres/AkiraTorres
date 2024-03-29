@@ -6,7 +6,7 @@
   <li>Apenas buscando conhecimento.</li>
   <li>Tenho 22 anos.</li>
   <li>Técnico em Redes de Computadores.</li>
-  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, sexto período.</li>
+  <li>Estudante de Sistemas de Informação na Universidade de Pernambuco, sétimo período.</li>
 </ul> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akiratorres&bg_color=0d1117&color=e0e0e0&line=0055ff&point=808080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -25,11 +25,11 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-### Estudando:
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 )&nbsp;
+
+### Estudando:
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
